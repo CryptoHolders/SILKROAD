@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.0//EN'
+          'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg height="747.0" preserveAspectRatio="xMidYMid meet" version="1.0" viewBox="148.0 165.0 729.0 747.0" width="729.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+><defs
+  ><clipPath id="a"
+    ><path d="M212 385H820V907H212z" fill="#2ba52e" stroke="#000" stroke-miterlimit="10" stroke-width="10"
+    /></clipPath
+    ><clipPath id="b"
+    ><path d="M153 170H872V403H153z" fill="#2ba52e" stroke="#000" stroke-miterlimit="10" stroke-width="10"
+    /></clipPath
+  ></defs
+  ><g data-name="Layer 6"
+  ><g id="change1_1"
+    ><path d="M212 385H820V907H212z" fill="#2ba52e"
+    /></g
+    ><g clip-path="url(#a)"
+    ><g id="change2_1"
+      ><path d="M209 391.8H817V956.3700000000001H209z" fill="#5acc5a"
+      /></g
+      ><g id="change3_1"
+      ><path d="M239 378.36H739V956.37H239z" fill="#4abc4a"
+      /></g
+      ><g id="change2_2"
+      ><path d="M298 376.12H673V949.65H298z" fill="#5acc5a"
+      /></g
+      ><g id="change4_1"
+      ><path d="M365 376.12H548V949.65H365z" fill="#7ff47f"
+      /></g
+      ><g id="change5_1"
+      ><path d="M406.94 385.08H447V942.9300000000001H406.94z" fill="#9fff9f"
+      /></g
+      ><g id="change6_1"
+      ><path d="M206 403H821V506H206z" opacity=".15"
+      /></g
+    ></g
+    ><path d="M212 385H820V907H212z" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="10"
+    /><g id="change1_2"
+    ><path d="M153 170H872V403H153z" fill="#2ba52e"
+    /></g
+    ><g clip-path="url(#b)"
+    ><g id="change2_3"
+      ><path d="M209 165H817V417H209z" fill="#5acc5a"
+      /></g
+      ><g id="change3_2"
+      ><path d="M240 159H739V417H240z" fill="#4abc4a"
+      /></g
+      ><g id="change2_4"
+      ><path d="M298 158H672V414H298z" fill="#5acc5a"
+      /></g
+      ><g id="change4_2"
+      ><path d="M364 158H549V414H364z" fill="#7ff47f"
+      /></g
+      ><g id="change5_2"
+      ><path d="M406 162H447V411H406z" fill="#9fff9f"
+      /></g
+    ></g
+    ><path d="M153 170H872V403H153z" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="10"
+  /></g
+></svg
+>
